@@ -1,4 +1,3 @@
-## Getting Started
 # Programação Orientada a Objetos em Java — Atividade MAPA
 
 Exercícios práticos dos fundamentos de **Programação Orientada a Objetos (POO)** em Java, organizados em ordem de dificuldade: primeiro classes e objetos, depois métodos e construtores, encapsulamento e, por fim, herança e polimorfismo.
