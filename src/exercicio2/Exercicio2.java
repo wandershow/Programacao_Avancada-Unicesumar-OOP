@@ -1,3 +1,5 @@
+package exercicio2;
+
 // Atividade 2 - Classe "Retângulo" com métodos
 
 public class Exercicio2 {

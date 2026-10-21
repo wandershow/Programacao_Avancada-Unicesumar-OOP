@@ -1,3 +1,5 @@
+package exercicio1;
+
 // Atividade 1 - Criando a primeira classe
 
 class Pessoa {

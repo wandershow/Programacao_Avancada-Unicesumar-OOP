@@ -1,3 +1,5 @@
+package exercicio5;
+
 // Atividade 5 - Criando a classe "Funcionário" (Herança e Polimorfismo)
 
 public class Exercicio5 {

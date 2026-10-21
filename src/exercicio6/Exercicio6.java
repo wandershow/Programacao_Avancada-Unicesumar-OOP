@@ -1,3 +1,5 @@
+package exercicio6;
+
 // Atividade 6 - Sistema de Veículos (Herança e Polimorfismo)
 
 public class Exercicio6 {

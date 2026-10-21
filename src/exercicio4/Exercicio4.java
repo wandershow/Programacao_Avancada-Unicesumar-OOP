@@ -1,3 +1,5 @@
+package exercicio4;
+
 // Atividade 4 - Classe "Produto" (Encapsulamento)
 
 public class Exercicio4 {

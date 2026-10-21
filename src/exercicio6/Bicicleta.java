@@ -1,3 +1,5 @@
+package exercicio6;
+
 class Bicicleta extends Veiculo {
     @Override
     void mover() {

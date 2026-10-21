@@ -1,3 +1,5 @@
+package exercicio3;
+
 // Atividade 3 - Conta Bancária (Construtor e Métodos)
 
 public class Exercicio3 {

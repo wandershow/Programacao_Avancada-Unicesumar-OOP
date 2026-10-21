@@ -1,3 +1,4 @@
+package exercicio5;
 
 class Gerente extends Funcionario {
 

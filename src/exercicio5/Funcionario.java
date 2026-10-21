@@ -1,3 +1,5 @@
+package exercicio5;
+
 class Funcionario {
     protected String nome;
     protected double salario;

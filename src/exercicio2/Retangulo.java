@@ -1,3 +1,5 @@
+package exercicio2;
+
 class Retangulo {
     double largura;
     double altura;
